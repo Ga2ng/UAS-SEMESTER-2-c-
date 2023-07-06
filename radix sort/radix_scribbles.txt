@@ -1,0 +1,75 @@
+radixsort(arr[] , n = inputsize(4)){
+
+    deklarasi int i;
+    maxnumber = arr_index0[2]
+
+    // mencari nilai terbesar
+    for( sampe 4x loop){
+        loop 1 (2 > 2) X
+        loop 2 ( 13 > 2 ) O
+        if(true){
+            maxnumber = 13;
+        }
+
+        loop 3( 456 > 13 ) O
+        if(true){
+            maxnumber = 456;
+        }
+
+        loop 4 ( 1200 > 13  ) O
+        if(true){
+            maxnumber = 1200;
+        }
+    }
+
+
+    int exp = 1
+    int tmpBuffer = new int [n] [4]
+
+    //penjelasan
+    new int[n]: Ini adalah operator new yang digunakan untuk mengalokasikan 
+    memori secara dinamis untuk array dengan ukuran n bilangan bulat.
+    Operator new mengembalikan alamat memori dari awal blok memori yang dialokasikan.
+
+    while(maxnumber(1200) / 1 > 0 ) {
+
+        int decimalBucket[10] = {0};
+        Jadi, secara keseluruhan, kode tersebut membuat array decimalBucket 
+        dengan 10 elemen bertipe data int dan menginisialisasi semua elemen dengan nilai 0. 
+        Dengan demikian, setiap elemen dalam array decimalBucket awalnya akan memiliki nilai 0.
+
+        for(loop sampai 4){
+
+            //mencari nilai satuan
+
+           loop1 decimalBUcket[arr_0[2] / exp(1) % 10]++; = 2
+           loop2 decimalBUcket[arr_1[13] / exp(1) % 10]++; = 3
+           loop2 decimalBUcket[arr_2[456] / exp(1) % 10]++; = 6
+           loop2 decimalBUcket[arr_3[1200] / exp(1) % 10]++; = 0
+        }
+
+        for(loop 9x){
+
+            decimalBucket[1] += decimalBucket[i(1) - 1 ] = 0;
+            decimalBucket[2] += decimalBucket[i(2) - 1 ] = 1;
+            decimalBucket[3] += decimalBucket[i(3) - 1 ] = 2;
+            decimalBucket[4] += decimalBucket[i(4) - 1 ] = 4;
+            decimalBucket[5] += decimalBucket[i(5) - 1 ] = 5;
+            decimalBucket[6] += decimalBucket[i(6) - 1 ] = 6;
+            decimalBucket[7] += decimalBucket[i(7) - 1 ] = 7;
+            decimalBucket[8] += decimalBucket[i(8) - 1 ] = 8;
+            decimalBucket[9] += decimalBucket[i(9) - 1 ] = 9;
+            
+
+        }
+
+        for(i = n - 1(4-1 = 3); 3 >= 0; i--) = loop 4x{
+            tmpbuffer[]
+
+        } 
+
+        sek sabar blom selesai
+
+
+    }    
+}

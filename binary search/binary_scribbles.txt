@@ -1,0 +1,61 @@
+left = 0
+right = size(10) - 1 = 9
+
+while( kiri(0) <= kanan(9) ){
+    mid = 0 + (right(9) - left(0)) / 2 = 4.5 ( 4 )
+
+    if( arr_index4/mid[16] == 23){ X
+        return mid;
+    }
+
+    if( arr_index4/mid[16] < 23 ){ O
+        left_baru = 4 + 1 = 5; 
+    }
+    
+}
+
+                left            right
+2, 5, 8, 12, 16, 23, 38, 56, 72, 91
+left = index 5
+right = size(10) - 1 = 9(index 9)
+
+loop - 2
+
+    23, 38, 56, 72, 91
+    0   1   2   3   4
+
+while ( kiri(5) <= kanan(9) ){ 
+    mid = 5 + (9 - 5) / 2 = 2 
+    md = 5 / 2 = 2.5 (2)
+    
+    if ( arr[56] == 23 ){ X
+        return mid;
+    }
+
+
+    if (arr[56] < 23 ){ X
+        left baru = 4 + 1 = 5;
+
+    }else{
+
+        right = 2 - 1;
+    }
+}
+left = 1;
+int right = 9
+
+loop-3
+
+while( kiri 1 <= 9 ){
+    mid = 1 + (9 - 1) / 2 
+    mid = 5
+
+    if (arr[23] == target ){ O
+        return mid = 5;
+    }
+}
+
+cout index ke - 5
+
+
+    

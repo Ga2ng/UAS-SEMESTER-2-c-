@@ -1,0 +1,133 @@
+quicksort(arr[], 0 , 5 ){
+    if(0 < 5){
+        pivotIndex = partition(1)
+
+        //rekursive
+
+        i = 1;
+        quicksort_1(arr[] , 0 , pivot_index = 1 - (1) = 0 ) low = 0 high = 0
+        quicksort_2(arr[] ,pivot_index = 1 + 1 = (2), 5 ) low = 2 high = 5
+    }
+}
+
+int partition () { arr[10, 7, 8, 9, 1, 5] , 0 , 5 }
+pivot = arr[5]
+i = 0 - 1 = -1
+
+for(j = 0 ; sampai 5 - 1 (4) ; j++){
+   j0.if(arr[10] < 5) x (loop 1)
+   j1.if(arr[7] < 5) x  (loop 2)
+   j2.if(arr[8] < 5) x  (loop 3)
+   j3.if(arr[9] < 5) x  (loop 4)
+   j4.if(arr[1] < 5) o  (loop 5)
+
+    if(true){
+        i++ = -1 + 1 = 0
+        i = 0
+        swap (arr[index 0 (10)] x index4[1] )
+        = arr[]{(1), 7, 8, 9, (10), 5} 
+
+    }
+}
+swap(i = 0 + 1 = 1 arr_index_1[7] x arr[5])
+last arr[] = arr[1, (5), 8, 9, 10, (7)]
+
+i = 0 + 1 = 1
+i = 1
+return partition value = 1
+
+-recursive 1-
+
+quicksort_1( arr[1, 5, 8, 9, 10, 7] , 0, 0){
+    partition (arr[] , low = 0, high = 0){
+        pivot = arr_index_0[1]
+        i = 0 - 1 = -1
+        i = -1;
+
+        for(j = 0 ; sampai 0 - 1; j++){
+            -false-
+        }
+    }
+    swap(arr_index_i_-1[0] x arr_index_high)
+    return -1 + 1 = 0
+    i = 0; 
+}
+
+-recursive 2-
+
+quicksort_2( arr[1, 5, 8, 9, 10, 7] , low = 2, high = 5){
+    partition (arr[] , low = 2, high = 5){
+        pivot = arr_high[7]
+        i = low - 1 = 2 - 1 = 1;
+        i = 1; 
+
+        for(j = 1; sampai 5-1 = 4; j++){
+            j1.if(arr[5] < 7) x (loop 1) o
+
+            if(true){
+                i++ = 1 + 1 = 2;
+                i = 2;
+                swap(arr_index_1[8] x arr_index_current[5]){
+                    arr[] = {1, (8), (5), 9, 10, 7,}
+                }
+            }
+
+            j2.if(arr[5] < 7) x (loop 2) o
+
+            if(true) {
+                i++ = 2 + 1 = 3;
+                i = 3;
+                swap(arr_index_3[9] x arr_index_current[5]){
+                    arr[] = {1, 8, (9), (5), 10, 7,}
+                }
+            }
+
+            j3.if(arr[5] < 7) x (loop 3) o
+
+            if(true) {
+               i++ = 3 + 1 = 4;
+               i = 4;
+               swap(arr_index_4[10] x arr_index_current[5]){
+                arr[] = {1, 8, 9, (10), (5), 7}
+               }
+            }
+
+            j4.if(arr[5] < 7) x (loop 4) o
+
+            if(true) {
+               i++ = 4 + 1 = 5;
+               i = 5;
+               swap(arr_index_5[7] x arr_index_current[5]){
+                arr[] = {1, 8, 9, 10, (7), (5)}
+               }
+            }
+
+            swap(array_index_i1[8] x arr_high[5]){
+                arr[] = {1, 5, 9, 10, 7, (8)}
+            }
+            i = 1 + 1 = 2
+            i = 2;
+            return partition value = 2
+
+        }
+    }
+
+}
+
+Result after partition section
+
+recursive 3 from quicksort_2{
+
+    quicksort_1(arr[] , low = 0 , pivotIndex = 0 - 1) low = 0, high = -1 
+    quicksort_1(arr[] , pivotINdex = 0 + 1, high ) low = 1, high = 5 
+}
+ 
+
+recursive 4 from quicksort_2{
+
+    quicksort_2(arr[] , low = 0 , pivotIndex = 2 - 1 = 1 ) low = 0, high = 2
+    quicksort_2(arr[] , pivotIndex 2 + 1 = 3 , 5) low = 3, high = 5
+}
+
+
+
